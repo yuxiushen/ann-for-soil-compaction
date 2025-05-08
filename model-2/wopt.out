@@ -1,0 +1,384 @@
+====================================
+Running wopt with seed = 30
+====================================
+[wopt]
+[wopt] Train Loss: 0.1192, Val Loss: 0.1841, Test Loss: 0.1599
+[wopt] Train R^2 : 0.8808, Val R^2 : 0.8667, Test R^2 : 0.5340
+[wopt] Train MAE : 1.3617, Val MAE : 1.6673, Test MAE : 1.9822
+[wopt] Train RMSE: 1.8789, Val RMSE: 2.3350, Test RMSE: 2.1766
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.2045    0.4797   -0.2107   -0.2342   -0.3543    0.2392]
+  [  0.2069    0.1461   -0.0687    0.0155   -0.2952    0.1087]
+
+network.0.bias (shape: (2,)):
+  [  1.3712   -0.7461]
+
+network.2.weight (shape: (1, 2)):
+  [ -1.7968   -1.4237]
+
+network.2.bias (shape: (1,)):
+  [  0.5587]
+
+====================================
+Running wopt with seed = 31
+====================================
+[wopt]
+[wopt] Train Loss: 0.1315, Val Loss: 0.1858, Test Loss: 0.1838
+[wopt] Train R^2 : 0.8685, Val R^2 : 0.8655, Test R^2 : 0.4645
+[wopt] Train MAE : 1.3796, Val MAE : 1.6799, Test MAE : 2.1419
+[wopt] Train RMSE: 1.9739, Val RMSE: 2.3459, Test RMSE: 2.3334
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.2686   -0.2836   -0.0171   -0.0117    0.3567   -0.1405]
+  [  0.1557   -0.6941    0.2472    0.2517    0.5859   -0.2935]
+
+network.0.bias (shape: (2,)):
+  [  0.6624   -1.7550]
+
+network.2.weight (shape: (1, 2)):
+  [  1.2674    1.3141]
+
+network.2.bias (shape: (1,)):
+  [  0.4057]
+
+====================================
+Running wopt with seed = 32
+====================================
+[wopt]
+[wopt] Train Loss: 0.1059, Val Loss: 0.1809, Test Loss: 0.1533
+[wopt] Train R^2 : 0.8941, Val R^2 : 0.8690, Test R^2 : 0.5534
+[wopt] Train MAE : 1.3492, Val MAE : 1.6919, Test MAE : 1.9348
+[wopt] Train RMSE: 1.7716, Val RMSE: 2.3152, Test RMSE: 2.1309
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [  0.3723   -0.6961    0.2815    0.3303    0.2996   -0.2821]
+  [  0.0767   -0.0143   -0.1960    0.0018   -0.2359    0.0870]
+
+network.0.bias (shape: (2,)):
+  [ -1.8303   -0.3567]
+
+network.2.weight (shape: (1, 2)):
+  [  1.7246   -1.8613]
+
+network.2.bias (shape: (1,)):
+  [  0.8667]
+
+====================================
+Running wopt with seed = 33
+====================================
+[wopt]
+[wopt] Train Loss: 0.1561, Val Loss: 0.2467, Test Loss: 0.2683
+[wopt] Train R^2 : 0.8439, Val R^2 : 0.8214, Test R^2 : 0.2184
+[wopt] Train MAE : 1.5894, Val MAE : 1.9487, Test MAE : 2.4240
+[wopt] Train RMSE: 2.1505, Val RMSE: 2.7032, Test RMSE: 2.8191
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.0482    0.3712   -0.4730   -0.0413    0.0836    0.1774]
+  [  0.0881   -0.2097    0.2079   -0.2447   -0.5934    0.1164]
+
+network.0.bias (shape: (2,)):
+  [  0.0730    0.0368]
+
+network.2.weight (shape: (1, 2)):
+  [ -1.5075   -1.3707]
+
+network.2.bias (shape: (1,)):
+  [  0.1324]
+
+====================================
+Running wopt with seed = 51
+====================================
+[wopt]
+[wopt] Train Loss: 0.1060, Val Loss: 0.1804, Test Loss: 0.0440
+[wopt] Train R^2 : 0.8940, Val R^2 : 0.8694, Test R^2 : 0.8717
+[wopt] Train MAE : 1.3344, Val MAE : 1.6783, Test MAE : 0.9671
+[wopt] Train RMSE: 1.7724, Val RMSE: 2.3116, Test RMSE: 1.1420
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [  0.4892   -0.3621    0.2542   -1.4038    0.1620   -0.1367]
+  [  0.2552   -0.3011    0.2759   -0.0336    0.2908   -0.2154]
+
+network.0.bias (shape: (2,)):
+  [ -0.9819   -0.3423]
+
+network.2.weight (shape: (1, 2)):
+  [ -1.5483    2.4898]
+
+network.2.bias (shape: (1,)):
+  [  0.0019]
+
+====================================
+Running wopt with seed = 70
+====================================
+[wopt]
+[wopt] Train Loss: 0.1023, Val Loss: 0.1755, Test Loss: 0.1471
+[wopt] Train R^2 : 0.8977, Val R^2 : 0.8729, Test R^2 : 0.5714
+[wopt] Train MAE : 1.3691, Val MAE : 1.7127, Test MAE : 1.8556
+[wopt] Train RMSE: 1.7409, Val RMSE: 2.2804, Test RMSE: 2.0874
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [  0.0579   -0.0246   -0.2286   -0.0080   -0.2556    0.1055]
+  [ -0.5509    0.9489   -0.5786   -0.4277   -0.3119    0.3429]
+
+network.0.bias (shape: (2,)):
+  [ -0.0530    2.5371]
+
+network.2.weight (shape: (1, 2)):
+  [ -1.8631   -1.4799]
+
+network.2.bias (shape: (1,)):
+  [  1.2160]
+
+====================================
+Running wopt with seed = 90
+====================================
+[wopt]
+[wopt] Train Loss: 0.1169, Val Loss: 0.1805, Test Loss: 0.1760
+[wopt] Train R^2 : 0.8831, Val R^2 : 0.8693, Test R^2 : 0.4873
+[wopt] Train MAE : 1.3493, Val MAE : 1.6632, Test MAE : 2.0860
+[wopt] Train RMSE: 1.8611, Val RMSE: 2.3121, Test RMSE: 2.2832
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.1605    0.3881   -0.2523   -0.2132   -0.3469    0.2286]
+  [  0.3074    0.2812   -0.0040    0.0521   -0.3861    0.1408]
+
+network.0.bias (shape: (2,)):
+  [  1.3377   -0.9779]
+
+network.2.weight (shape: (1, 2)):
+  [ -2.0339   -1.1660]
+
+network.2.bias (shape: (1,)):
+  [  0.7865]
+
+====================================
+Running wopt with seed = 99
+====================================
+[wopt]
+[wopt] Train Loss: 0.1245, Val Loss: 0.1874, Test Loss: 0.1933
+[wopt] Train R^2 : 0.8755, Val R^2 : 0.8643, Test R^2 : 0.4367
+[wopt] Train MAE : 1.3923, Val MAE : 1.6471, Test MAE : 2.1965
+[wopt] Train RMSE: 1.9203, Val RMSE: 2.3560, Test RMSE: 2.3932
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [  0.1050    0.0854    0.5594    0.3144    0.3614   -0.2035]
+  [ -0.2976   -0.2992    0.6724   -1.2358    0.8008   -0.2145]
+
+network.0.bias (shape: (2,)):
+  [ -0.9133    1.4348]
+
+network.2.weight (shape: (1, 2)):
+  [  1.9091    0.6447]
+
+network.2.bias (shape: (1,)):
+  [  0.7609]
+
+====================================
+Running wopt with seed = 300
+====================================
+[wopt]
+[wopt] Train Loss: 0.1676, Val Loss: 0.2466, Test Loss: 0.2446
+[wopt] Train R^2 : 0.8324, Val R^2 : 0.8214, Test R^2 : 0.2874
+[wopt] Train MAE : 1.6037, Val MAE : 1.9244, Test MAE : 2.3588
+[wopt] Train RMSE: 2.2285, Val RMSE: 2.7030, Test RMSE: 2.6918
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.0465   -0.5173    0.4118    0.1006   -0.0727   -0.1842]
+  [  0.0366   -0.1772    0.0975   -0.1448   -0.7016    0.1689]
+
+network.0.bias (shape: (2,)):
+  [ -0.2760    0.1776]
+
+network.2.weight (shape: (1, 2)):
+  [  1.1698   -1.2053]
+
+network.2.bias (shape: (1,)):
+  [  0.3403]
+
+====================================
+Running wopt with seed = 310
+====================================
+[wopt]
+[wopt] Train Loss: 0.1025, Val Loss: 0.1772, Test Loss: 0.1466
+[wopt] Train R^2 : 0.8975, Val R^2 : 0.8717, Test R^2 : 0.5728
+[wopt] Train MAE : 1.3561, Val MAE : 1.6979, Test MAE : 1.8694
+[wopt] Train RMSE: 1.7429, Val RMSE: 2.2911, Test RMSE: 2.0842
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.0268   -0.1820   -0.4108    0.0004   -0.2468    0.0956]
+  [  0.3991   -0.8515    0.3156    0.3736    0.2862   -0.3035]
+
+network.0.bias (shape: (2,)):
+  [ -0.1597   -2.1200]
+
+network.2.weight (shape: (1, 2)):
+  [ -1.8417    1.6587]
+
+network.2.bias (shape: (1,)):
+  [  1.1700]
+
+====================================
+Running wopt with seed = 320
+====================================
+[wopt]
+[wopt] Train Loss: 0.1288, Val Loss: 0.1785, Test Loss: 0.2031
+[wopt] Train R^2 : 0.8712, Val R^2 : 0.8708, Test R^2 : 0.4083
+[wopt] Train MAE : 1.3586, Val MAE : 1.6487, Test MAE : 2.2412
+[wopt] Train RMSE: 1.9535, Val RMSE: 2.2993, Test RMSE: 2.4528
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.1266   -0.0164    0.4458   -0.0556    0.4538   -0.1763]
+  [  0.0976   -0.4878    0.3442    0.2045    0.5721   -0.2721]
+
+network.0.bias (shape: (2,)):
+  [  0.9567   -1.5973]
+
+network.2.weight (shape: (1, 2)):
+  [  1.0670    1.4999]
+
+network.2.bias (shape: (1,)):
+  [  0.4978]
+
+====================================
+Running wopt with seed = 330
+====================================
+[wopt]
+[wopt] Train Loss: 0.1014, Val Loss: 0.1748, Test Loss: 0.1524
+[wopt] Train R^2 : 0.8986, Val R^2 : 0.8734, Test R^2 : 0.5559
+[wopt] Train MAE : 1.3659, Val MAE : 1.7163, Test MAE : 1.8982
+[wopt] Train RMSE: 1.7329, Val RMSE: 2.2758, Test RMSE: 2.1249
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [  0.0089   -0.0919   -0.3135   -0.0096   -0.2485    0.1026]
+  [ -0.4997    1.0111   -0.5998   -0.4392   -0.3242    0.3539]
+
+network.0.bias (shape: (2,)):
+  [ -0.0546    2.6944]
+
+network.2.weight (shape: (1, 2)):
+  [ -1.9274   -1.4487]
+
+network.2.bias (shape: (1,)):
+  [  1.1919]
+
+====================================
+Running wopt with seed = 510
+====================================
+[wopt]
+[wopt] Train Loss: 0.1087, Val Loss: 0.1712, Test Loss: 0.0313
+[wopt] Train R^2 : 0.8913, Val R^2 : 0.8761, Test R^2 : 0.9089
+[wopt] Train MAE : 1.3232, Val MAE : 1.6399, Test MAE : 0.7669
+[wopt] Train RMSE: 1.7941, Val RMSE: 2.2517, Test RMSE: 0.9626
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.4152    0.4743   -0.1546    2.1720   -0.0176    0.1794]
+  [  0.1918   -0.3208    0.2335    0.0229    0.1925   -0.2223]
+
+network.0.bias (shape: (2,)):
+  [  1.3034   -0.2996]
+
+network.2.weight (shape: (1, 2)):
+  [  1.4127    2.3978]
+
+network.2.bias (shape: (1,)):
+  [  0.0061]
+
+====================================
+Running wopt with seed = 700
+====================================
+[wopt]
+[wopt] Train Loss: 0.1376, Val Loss: 0.1920, Test Loss: 0.1784
+[wopt] Train R^2 : 0.8624, Val R^2 : 0.8609, Test R^2 : 0.4802
+[wopt] Train MAE : 1.4284, Val MAE : 1.7201, Test MAE : 2.1182
+[wopt] Train RMSE: 2.0188, Val RMSE: 2.3852, Test RMSE: 2.2990
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [  0.1432    0.0958   -0.2058    0.0037   -0.3552    0.1425]
+  [ -0.0014   -0.6828    0.4484    0.2486    0.6999   -0.2959]
+
+network.0.bias (shape: (2,)):
+  [ -0.4797   -2.1436]
+
+network.2.weight (shape: (1, 2)):
+  [ -1.2966    1.1301]
+
+network.2.bias (shape: (1,)):
+  [  0.4248]
+
+====================================
+Running wopt with seed = 900
+====================================
+[wopt]
+[wopt] Train Loss: 0.1467, Val Loss: 0.2228, Test Loss: 0.3769
+[wopt] Train R^2 : 0.8533, Val R^2 : 0.8386, Test R^2 : -0.0981
+[wopt] Train MAE : 1.5087, Val MAE : 1.8351, Test MAE : 3.0411
+[wopt] Train RMSE: 2.0849, Val RMSE: 2.5693, Test RMSE: 3.3415
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.0162   -0.0291    0.2786    0.1003    0.2259   -0.4578]
+  [ -0.4265   -0.4940    0.8212    0.0122    1.2527    1.8293]
+
+network.0.bias (shape: (2,)):
+  [  0.0338   -2.2063]
+
+network.2.weight (shape: (1, 2)):
+  [  1.7167    0.8348]
+
+network.2.bias (shape: (1,)):
+  [  0.4396]
+
+====================================
+Running wopt with seed = 990
+====================================
+[wopt]
+[wopt] Train Loss: 0.0943, Val Loss: 0.1757, Test Loss: 0.0491
+[wopt] Train R^2 : 0.9057, Val R^2 : 0.8728, Test R^2 : 0.8568
+[wopt] Train MAE : 1.2964, Val MAE : 1.6788, Test MAE : 1.0799
+[wopt] Train RMSE: 1.6717, Val RMSE: 2.2811, Test RMSE: 1.2065
+
+Model Parameters:
+
+network.0.weight (shape: (2, 6)):
+  [ -0.4135    0.1450   -0.4637    0.1073   -0.3708    0.2015]
+  [  0.3202   -0.7076   -0.2012   -1.1735    0.3173   -0.1633]
+
+network.0.bias (shape: (2,)):
+  [  0.4241   -0.9530]
+
+network.2.weight (shape: (1, 2)):
+  [ -2.9890   -2.0372]
+
+network.2.bias (shape: (1,)):
+  [  0.0126]
+
